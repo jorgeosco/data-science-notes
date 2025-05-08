@@ -3,6 +3,7 @@ Mis apuntes desde lo esencial para Data Science con Python y R.
 
 ## Contenido
 
+- [Matemática Esencial](Matemática%20Esencial/README.md)
 
 ## Bibliografía
 
